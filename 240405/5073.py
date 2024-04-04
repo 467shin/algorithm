@@ -1,10 +1,12 @@
 # 삼각형의 세 변
 
-# Equilateral: 세 변의
+# Equilateral: 정삼각형
 
-# Isosceles: 두 변의
+# Isosceles: 이등변삼각형
 
 # Scalene: 모두 다른
+
+# Invalid: 안 삼각형
 
 # TC
 # 7 7 7
@@ -14,7 +16,7 @@
 # 0 0 0
 
 import sys
-sys.stdin = open("input.txt", "r")
+sys.stdin = open("../input.txt", "r")
 
 while True:
     arr = list(map(int, input().split()))
