@@ -15,6 +15,18 @@
 # <a> is acceptable.
 # <tv> is not acceptable.
 
+# TC
+# a
+# tv
+# ap
+# ptoui
+# bontres
+# zoggax
+# wiinq
+# eep
+# houctuh
+# end
+
 # Idea
 # stack에 넣어가면서 판별하면 되겠네
 # 반복문 내부에 cnt로 자음 혹은 모음이 3개가 되면 바로 터뜨려버리고
