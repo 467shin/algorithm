@@ -10,3 +10,5 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 - [5073번: 삼각형과 세 변(B3)](https://www.acmicpc.net/problem/5073)
 - [9655번: 돌 게임(S5)](https://www.acmicpc.net/problem/9655)
 - [10431번: 줄세우기(S5)](https://www.acmicpc.net/problem/10431)
+- [8979번: 올림픽(S5)](https://www.acmicpc.net/problem/8979)
+- [4659번: 비밀번호 발음하기(S5)](https://www.acmicpc.net/problem/4659)

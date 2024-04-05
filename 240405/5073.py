@@ -1,27 +1,9 @@
-# 삼각형의 세 변
-
-# Equilateral: 정삼각형
-
-# Isosceles: 이등변삼각형
-
-# Scalene: 모두 다른
-
-# Invalid: 안 삼각형
-
-# TC
-# 7 7 7
-# 6 5 4
-# 3 2 5
-# 3 2 2
-# 0 0 0
-
-import sys
-sys.stdin = open("../input.txt", "r")
-
 while True:
     arr = list(map(int, input().split()))
+    # 종료 조건
     if sum(arr) == 0:
         break
+
     res = None
     cnt = 0
     # 배열 순환
@@ -31,6 +13,7 @@ while True:
             res = 'Invalid'
             break
         # j를 활용해서 역순으로 크기 비교
+        # (1, 0), (2, 0), (2, 1) 순으로 빈틈없이 비교하게 된다
         for j in range(i):
             if arr[i] == arr[j]:
                 cnt += 1
@@ -43,4 +26,3 @@ while True:
             res = 'Isosceles'
 
     print(res)
-
