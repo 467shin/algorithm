@@ -15,8 +15,10 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 - [8979번: 올림픽(S5)](https://www.acmicpc.net/problem/8979)
 - [4659번: 비밀번호 발음하기(S5)](https://www.acmicpc.net/problem/4659)
 
-## 24.04.05
+## 24.04.06
 - [25757번: 임스와 함께하는 미니게임(S5)](https://www.acmicpc.net/problem/25757)
 - [20125번: 쿠키의 신체 측정(S4)](https://www.acmicpc.net/problem/20125)
 - [1205번: 등수 구하기(S4)](https://www.acmicpc.net/problem/1205)
+
+## 24.04.07
 - [1244번: 스위치 켜고 끄기(S4)](https://www.acmicpc.net/problem/1244)
