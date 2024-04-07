@@ -22,3 +22,6 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 
 ## 24.04.07
 - [1244번: 스위치 켜고 끄기(S4)](https://www.acmicpc.net/problem/1244)
+
+## 24.04.08
+- [9017번: 크로스 컨트리(S3)](https://www.acmicpc.net/problem/9017)
