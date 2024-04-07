@@ -19,3 +19,4 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 - [25757번: 임스와 함께하는 미니게임(S5)](https://www.acmicpc.net/problem/25757)
 - [20125번: 쿠키의 신체 측정(S4)](https://www.acmicpc.net/problem/20125)
 - [1205번: 등수 구하기(S4)](https://www.acmicpc.net/problem/1205)
+- [1244번: 스위치 켜고 끄기(S4)](https://www.acmicpc.net/problem/1244)
