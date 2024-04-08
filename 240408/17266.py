@@ -35,12 +35,12 @@ def solve():
     N = int(input())
     M = int(input())
     arr = list(map(int, input().split()))
-    distance_arr = [1]
+    distance_arr = []
     last_light = 0
     for i in arr:
         now = i
         # 가로등의 사이사이는 2로 나누고 나머지가 있을 경우 1을 더한다
-        if len(distance_arr) > 1:
+        if distance_arr:
             now = ((i - last_light) // 2)
             if (i - last_light) % 2:
                 now += 1
