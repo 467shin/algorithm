@@ -31,7 +31,7 @@
 
 # Code
 import sys
-sys.stdin = open("../input.txt", "r")
+sys.stdin = open("input.txt", "r")
 
 def solve():
     N = int(input())
@@ -46,14 +46,16 @@ def solve():
     budget = M // N # 기본값은 평균
     remainder = M % N # 남은 예산 주머니
     for i in range(N):
+        # 예상보다 예산이 적은 도시의 경우
         if arr[i] <= budget:
-            remainder += budget - arr[i]
+            remainder += budget - arr[i] # 넘친 예산을 나머지에 넣어 준다
             continue
+        # 아닐 경우 나머지를 남은 도시들의 수로 나눠 고루 분배한다.
         else:
             budget += remainder // (N - i)
             remainder = remainder % (N - i)
 
-        # 완전 오버 시 예산 분배 로직
+        # 나머지를 분배한 뒤에도 예산이 모자랄 시, 남은 돈을 남은 지역에 전부 분배한다.
         if arr[i] > budget:
             budget = (M - sum(arr[:i])) // (N - i)
             break
