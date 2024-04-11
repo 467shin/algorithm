@@ -31,3 +31,9 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 ## 24.04.09
 - [20920번: 영단어 암기는 괴로워(S3)](https://www.acmicpc.net/problem/20920)
 - [2512번: 예산(S2)](https://www.acmicpc.net/problem/2512)
+
+## 24.04.10
+- [21921번: 블로그(S3)](https://www.acmicpc.net/problem/21921)
+
+## 24.04.11
+- [1515번: 수 이어 세기(S3)](https://www.acmicpc.net/problem/1515)
