@@ -37,3 +37,6 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 
 ## 24.04.11
 - [1515번: 수 이어 세기(S3)](https://www.acmicpc.net/problem/1515)
+
+## 24.04.12
+- [19941번: 햄버거 분배(S3)](https://www.acmicpc.net/problem/19941)
