@@ -43,3 +43,6 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 
 ## 24.04.13
 - [17484번: 진우의 달 여행 (Small)(S3)](https://www.acmicpc.net/problem/17484)
+
+## 24.04.14
+- [2607번: 비슷한 단어(S2)](https://www.acmicpc.net/problem/2607)
