@@ -51,7 +51,7 @@
 
 # Code
 import sys
-sys.stdin = open("input.txt", "r")
+sys.stdin = open("../input.txt", "r")
 
 def solve():
     n, k, t, m = map(int, input().split())

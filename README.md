@@ -46,3 +46,6 @@ _"이대로는 안 돼! 머리가 굳고 있어!"_
 
 ## 24.04.14
 - [2607번: 비슷한 단어(S2)](https://www.acmicpc.net/problem/2607)
+
+## 24.04.15
+- [3758번: KCPC(S2)](https://www.acmicpc.net/problem/3758)
